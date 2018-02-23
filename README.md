@@ -3,6 +3,6 @@
 
 [Опрос](https://docs.google.com/forms/d/1FYuwFQcCJLIx3gd3QEMEEs7pHbzIn7IXaqRVMee1Hng/edit)
 
-[Таблица ответов](https://docs.google.com/spreadsheets/d/1wiO-NIwOStSffIbO9A7Qhod43YVvCLwSXBQwP84u7K4/edit#gid=1741767182)
+[Таблица ответов](https://docs.google.com/spreadsheets/d/1wiO-NIwOStSffIbO9A7Qhod43YVvCLwSXBQwP84u7K4/edit#gid=1741767182&fvid=963556089)
 
 Мой опрос называется "Распространённость знаний о медицине", как ни странно он именно о распространённости этих самых знаний. Он задумывался для того, чтобы выявить, как много людей имеют хоть какие-то представления/знания о медицине и, возможно, способны ли они оказать медицинскую помощь в экстренных случаях. В опросе участвовало 39 человек. 
